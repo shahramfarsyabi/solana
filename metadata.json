@@ -1,0 +1,6 @@
+{
+    "name": "Shahram Token",
+    "symbol": "ShBird",
+    "description": "Example token from Solana Making a Token guide.",
+    "image": "https://raw.githubusercontent.com/shahramfarsyabi/solana/main/512x512.png"
+}
